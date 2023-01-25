@@ -1,5 +1,5 @@
 # OpenMP_MPI_dijkstra_path_algo
-# Author : Rohan Lagare
+Author : Rohan Lagare
 
 two programs, dijkstra_mpi and dijkstra_omp/dijkstra_acc, 
 that will take as input a single file (an adjacency matrix) and a number of random 
